@@ -1,0 +1,17 @@
+C:\Users\fernando\Desktop\curso-Backend-C#\ApiBackend\ApiBackend.Date\bin\Debug\net6.0\ApiBackend.Date.deps.json
+C:\Users\fernando\Desktop\curso-Backend-C#\ApiBackend\ApiBackend.Date\bin\Debug\net6.0\ApiBackend.Date.runtimeconfig.json
+C:\Users\fernando\Desktop\curso-Backend-C#\ApiBackend\ApiBackend.Date\bin\Debug\net6.0\ApiBackend.Date.dll
+C:\Users\fernando\Desktop\curso-Backend-C#\ApiBackend\ApiBackend.Date\bin\Debug\net6.0\ApiBackend.Date.pdb
+C:\Users\fernando\Desktop\curso-Backend-C#\ApiBackend\ApiBackend.Date\bin\Debug\net6.0\ApiBackend.Shared.dll
+C:\Users\fernando\Desktop\curso-Backend-C#\ApiBackend\ApiBackend.Date\bin\Debug\net6.0\ApiBackend.Shared.pdb
+C:\Users\fernando\Desktop\curso-Backend-C#\ApiBackend\ApiBackend.Date\obj\Debug\net6.0\ApiBackend.Date.csproj.AssemblyReference.cache
+C:\Users\fernando\Desktop\curso-Backend-C#\ApiBackend\ApiBackend.Date\obj\Debug\net6.0\ApiBackend.Date.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fernando\Desktop\curso-Backend-C#\ApiBackend\ApiBackend.Date\obj\Debug\net6.0\ApiBackend.Date.AssemblyInfoInputs.cache
+C:\Users\fernando\Desktop\curso-Backend-C#\ApiBackend\ApiBackend.Date\obj\Debug\net6.0\ApiBackend.Date.AssemblyInfo.cs
+C:\Users\fernando\Desktop\curso-Backend-C#\ApiBackend\ApiBackend.Date\obj\Debug\net6.0\ApiBackend.Date.csproj.CoreCompileInputs.cache
+C:\Users\fernando\Desktop\curso-Backend-C#\ApiBackend\ApiBackend.Date\obj\Debug\net6.0\ApiBackend.Date.csproj.CopyComplete
+C:\Users\fernando\Desktop\curso-Backend-C#\ApiBackend\ApiBackend.Date\obj\Debug\net6.0\ApiBackend.Date.dll
+C:\Users\fernando\Desktop\curso-Backend-C#\ApiBackend\ApiBackend.Date\obj\Debug\net6.0\refint\ApiBackend.Date.dll
+C:\Users\fernando\Desktop\curso-Backend-C#\ApiBackend\ApiBackend.Date\obj\Debug\net6.0\ApiBackend.Date.pdb
+C:\Users\fernando\Desktop\curso-Backend-C#\ApiBackend\ApiBackend.Date\obj\Debug\net6.0\ApiBackend.Date.genruntimeconfig.cache
+C:\Users\fernando\Desktop\curso-Backend-C#\ApiBackend\ApiBackend.Date\obj\Debug\net6.0\ref\ApiBackend.Date.dll

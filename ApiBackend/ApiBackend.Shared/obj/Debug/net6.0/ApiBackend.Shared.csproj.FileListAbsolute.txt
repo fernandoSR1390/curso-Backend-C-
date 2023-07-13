@@ -1,0 +1,12 @@
+C:\Users\fernando\Desktop\curso-Backend-C#\ApiBackend\ApiBackend.Shared\bin\Debug\net6.0\ApiBackend.Shared.deps.json
+C:\Users\fernando\Desktop\curso-Backend-C#\ApiBackend\ApiBackend.Shared\bin\Debug\net6.0\ApiBackend.Shared.dll
+C:\Users\fernando\Desktop\curso-Backend-C#\ApiBackend\ApiBackend.Shared\bin\Debug\net6.0\ApiBackend.Shared.pdb
+C:\Users\fernando\Desktop\curso-Backend-C#\ApiBackend\ApiBackend.Shared\obj\Debug\net6.0\ApiBackend.Shared.csproj.AssemblyReference.cache
+C:\Users\fernando\Desktop\curso-Backend-C#\ApiBackend\ApiBackend.Shared\obj\Debug\net6.0\ApiBackend.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fernando\Desktop\curso-Backend-C#\ApiBackend\ApiBackend.Shared\obj\Debug\net6.0\ApiBackend.Shared.AssemblyInfoInputs.cache
+C:\Users\fernando\Desktop\curso-Backend-C#\ApiBackend\ApiBackend.Shared\obj\Debug\net6.0\ApiBackend.Shared.AssemblyInfo.cs
+C:\Users\fernando\Desktop\curso-Backend-C#\ApiBackend\ApiBackend.Shared\obj\Debug\net6.0\ApiBackend.Shared.csproj.CoreCompileInputs.cache
+C:\Users\fernando\Desktop\curso-Backend-C#\ApiBackend\ApiBackend.Shared\obj\Debug\net6.0\ApiBackend.Shared.dll
+C:\Users\fernando\Desktop\curso-Backend-C#\ApiBackend\ApiBackend.Shared\obj\Debug\net6.0\refint\ApiBackend.Shared.dll
+C:\Users\fernando\Desktop\curso-Backend-C#\ApiBackend\ApiBackend.Shared\obj\Debug\net6.0\ApiBackend.Shared.pdb
+C:\Users\fernando\Desktop\curso-Backend-C#\ApiBackend\ApiBackend.Shared\obj\Debug\net6.0\ref\ApiBackend.Shared.dll
