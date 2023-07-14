@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "BUBWlP2HpOCRwwz5AdshdWT7xA0CexoQGHBflkP/ncBw3zw+COnRFy31fgckK56aA5OlpDVIneeehw2gs2sN4A==",
+  "dgSpecHash": "uJJ2qloFk9jrQ3YwBULTAjoUeDkgMgsNV9S8DSgUp8yUmmxJsqLAm5Eim9OSjJkm56a/19B5kYnVSPGCOmQpdA==",
   "success": true,
   "projectFilePath": "C:\\Users\\fernando\\Desktop\\curso-Backend-C#\\ApiBackend\\ApiBackend.Date\\ApiBackend.Date.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fernando\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\fernando\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.20\\microsoft.aspnetcore.cryptography.internal.6.0.20.nupkg.sha512",
+    "C:\\Users\\fernando\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.20\\microsoft.aspnetcore.cryptography.keyderivation.6.0.20.nupkg.sha512",
+    "C:\\Users\\fernando\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\6.0.20\\microsoft.aspnetcore.identity.entityframeworkcore.6.0.20.nupkg.sha512",
     "C:\\Users\\fernando\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.20\\microsoft.data.sqlite.core.6.0.20.nupkg.sha512",
     "C:\\Users\\fernando\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.20\\microsoft.entityframeworkcore.6.0.20.nupkg.sha512",
     "C:\\Users\\fernando\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.20\\microsoft.entityframeworkcore.abstractions.6.0.20.nupkg.sha512",
@@ -20,6 +23,8 @@
     "C:\\Users\\fernando\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.1\\microsoft.extensions.dependencyinjection.6.0.1.nupkg.sha512",
     "C:\\Users\\fernando\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\fernando\\.nuget\\packages\\microsoft.extensions.dependencymodel\\6.0.0\\microsoft.extensions.dependencymodel.6.0.0.nupkg.sha512",
+    "C:\\Users\\fernando\\.nuget\\packages\\microsoft.extensions.identity.core\\6.0.20\\microsoft.extensions.identity.core.6.0.20.nupkg.sha512",
+    "C:\\Users\\fernando\\.nuget\\packages\\microsoft.extensions.identity.stores\\6.0.20\\microsoft.extensions.identity.stores.6.0.20.nupkg.sha512",
     "C:\\Users\\fernando\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",
     "C:\\Users\\fernando\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\fernando\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
